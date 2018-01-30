@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MediaPlayer</string>
+    <string name="raw">RAW Audio file</string>
+    <string name="sd">SD CARD Audio file</string>
+    <string name="stop">STOP MediaPlayer</string>
+
+</resources>
